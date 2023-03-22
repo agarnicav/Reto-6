@@ -56,10 +56,10 @@ Dada la figura de la imagen desarrolle:
 
 ![Tercer punto 1](https://user-images.githubusercontent.com/124607325/226786330-7bd8c1e1-2f58-4f36-a231-1e044344baa1.png)
 
-2.Para calcular la cantidad todal de kilos de carne de aves que hay se supan la cantidad de kilos obtenidos segun cada tipo de ave.
+2. Para calcular la cantidad todal de kilos de carne de aves que hay se supan la cantidad de kilos obtenidos segun cada tipo de ave.
 
 3. Se pide que se ingrese la cantidad de gallinas, gallos y pollitos  que se tienen  se almacenan y  se llama a la función calcular_cantidad_carne con estos valores como argumentos.
-4. 
+
 ![tercer punto 2](https://user-images.githubusercontent.com/124607325/226786540-ae4d516f-52f8-43d1-9d88-242ecbbb8a89.png)
 
 4. El resultado de la función se almacena en la variable resultado.
