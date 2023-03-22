@@ -1,4 +1,4 @@
-#RETO 6
+# RETO 6
 
 
 ## Primer punto 
