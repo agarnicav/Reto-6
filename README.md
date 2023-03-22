@@ -1,12 +1,16 @@
 ## Primer punto 
+
 Dado la figura de la imagen, desarrolle:
+
 ![68747470733a2f2f692e706f7374696d672e63632f465276436d7078782f696d6167652e706e67](https://user-images.githubusercontent.com/124607325/226735474-d6f739ca-631b-4831-992c-63b1b035a493.png)
 
 Para poder hallar el volumen y el área superficial de las imagenes de la figura se debera: 
 
 1. Importar la funcion Math para poder usar la funcion math.pi (representa al numero pi (3.1415)
 2. Se define cuatro funciones para calcular el volumen y área superficial de la esfera y el cono (se usan las formulas ya establecidas) , respectivamente. y en la funcion se podran variables que se pediran  y se remplazaran mas adelantee.
+
 ![Primer punto reto 6 1](https://user-images.githubusercontent.com/124607325/226743460-22ebb37c-0646-4c76-8b0a-8d57e583a14e.png)
+
 (Se utiliza la condición if __name__ == "__main__": para indicar que el código debajo sólo se ejecutará si se está ejecutando el archivo directamente)
 
 3. Con la funcion imput se pide ingresar los valores del radio de la esfera, el radio de la base del cono, y la altura del cono
@@ -19,11 +23,13 @@ Para poder hallar el volumen y el área superficial de las imagenes de la figura
 
 ## Segundo Punto 
 Dada la figura de la imagen desarrolle: 
+
 ![68747470733a2f2f692e706f7374696d672e63632f3174344d727a734c2f696d6167652e706e67](https://user-images.githubusercontent.com/124607325/226761470-1c312c29-8d81-4d7c-a1b9-0e9cc2a99faa.png)
 
 1. se Importa el módulo math, el cual se utiliza para usar a la constante pi y la función exponencial.
 
 2. se definen e dos funciones para poder calcular el area y perimetro, y tomaran como como entrada  r (radio del circulo), a y b(base y altura del rectangulo)
+
 ![Segundo punto 1](https://user-images.githubusercontent.com/124607325/226783460-a9cc38b6-9911-4d77-95bb-b8c91e1b9fd5.png)
 
 3. En la funcion para calcular el perimetro y area del circulo  se usan las fórmulas  pi * r**2 para el area , y la fórmula 2 * pi * r  para el perimetro.
@@ -47,16 +53,18 @@ Dada la figura de la imagen desarrolle:
  para hallar esta funcion se debe: 
  
 1. Se define una función llamada calcular_cantidad_carne que usa tres   entradas N, M, K. en ella se calcula la cantidad de kilos de carne que hay multiplicando el número de aves que hay por los kilos de que pesaria, N serian gallinas, M gallos y K pollitos . Estos valores se almacenan en variables separadas.
+
 ![Tercer punto 1](https://user-images.githubusercontent.com/124607325/226786330-7bd8c1e1-2f58-4f36-a231-1e044344baa1.png)
 
-3.Para calcular la cantidad todal de kilos de carne de aves que hay se supan la cantidad de kilos obtenidos segun cada tipo de ave.
+2.Para calcular la cantidad todal de kilos de carne de aves que hay se supan la cantidad de kilos obtenidos segun cada tipo de ave.
 
-4. Se pide que se ingrese la cantidad de gallinas, gallos y pollitos  que se tienen  se almacenan y  se llama a la función calcular_cantidad_carne con estos valores como argumentos.
+3. Se pide que se ingrese la cantidad de gallinas, gallos y pollitos  que se tienen  se almacenan y  se llama a la función calcular_cantidad_carne con estos valores como argumentos.
+4. 
 ![tercer punto 2](https://user-images.githubusercontent.com/124607325/226786540-ae4d516f-52f8-43d1-9d88-242ecbbb8a89.png)
 
-5. El resultado de la función se almacena en la variable resultado.
+4. El resultado de la función se almacena en la variable resultado.
 
-6 Y se imprime en la pantalla la cantidad de carne obtenida de cada tipo de ave, así como la cantidad total de carne.
+5. Y se imprime en la pantalla la cantidad de carne obtenida de cada tipo de ave, así como la cantidad total de carne.
 
 ## Cuarto Punto 
 Hallar respuesta a el problema: 
@@ -64,6 +72,7 @@ Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cad
 
 
 1. se define una función para calcular el total de la compra, que toma como entrada la cantidad de panes (P), la cantidad de leche (M), la cantidad de huevos (H) y el dinero que se lleva (B). Y con ellas se calcula el total de lo gastado en cada artículo, el total de la compra.
+
 ![Cuarto punto 1](https://user-images.githubusercontent.com/124607325/226789236-e801e391-d75c-49a5-af55-d528cd5bd2bd.png)
 
 2. Se define una segunda función para calcular las vueltas o la deuda, que toma como entrada el total de la compra y el dinero que lleva el cliente, y determina si se tiene que recibir vueltas o si se tiene que pagar una deuda.
@@ -88,6 +97,7 @@ Hacer un programa que utilice una función para calcular el valor de un préstam
 2. En la sección if __name__ == "__main__":, se solicita ingresar el valor del préstamo C, la tasa de interés anual en decimal i, y la cantidad de meses del préstamo n.
 
 3. Luego se llama a la función calcular_Valor_Prestamo con los parámetros C, i/12, y n. El valor de i/12 se utiliza para convertir la tasa de interés anual en tasa mensual.
+
 ![Quinto punto 2](https://user-images.githubusercontent.com/124607325/226791870-eedbca8d-ed1e-4059-b419-4ce7eae83d23.png)
 
 
@@ -99,9 +109,11 @@ Hallar el número de contagiados de Covid-19 en el país de NuncaLandia se dupli
 
 
 1. Se define la función para calcular contagios que recibe dos entradas  C numero actual de contagiados  y D Días. Se calcula el número total de contagios proyectados  multiplicando el número actual de contagiados C por 2 elevado a la D, que representa el número de días a proyectar.
+
 ![Sexto punto 1](https://user-images.githubusercontent.com/124607325/226793116-dd90d291-1ccb-42e9-8a04-49bd05977121.png)
 
 2. Se solicita ingresar el número actual de contagiados C y la cantidad de días a proyectar D.
+
 ![Sexto punto 2](https://user-images.githubusercontent.com/124607325/226793236-c96bd660-5118-4a40-bb8d-37466d9539e3.png)
 
 3.Se llama a la función calcular_contagios pasando como argumentos los valores de C y D, y se guarda el resultado en la variable total_contagios. Y se imprime en pantalla el mensaje indicando el número total de personas contagiadas después de D días, el cual corresponde al valor de total_contagios.
@@ -109,7 +121,7 @@ Hallar el número de contagiados de Covid-19 en el país de NuncaLandia se dupli
 
 ## Septimo Punto 
 1. Se define la función calcular_promedio que recibe cinco números de tipo float y devuelve el promedio de estos números.
-2
+
 ![Promedio](https://user-images.githubusercontent.com/124607325/226794312-dd9d74ed-e122-4f40-bd33-f9f0a3e815ce.png)
 
 2. Se define la función calcular_la_mediana que recibe cinco números de tipo float y devuelve la mediana de estos números.
