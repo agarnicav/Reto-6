@@ -1,3 +1,6 @@
+#RETO 6
+
+
 ## Primer punto 
 
 Dado la figura de la imagen, desarrolle:
@@ -47,6 +50,7 @@ Dada la figura de la imagen desarrolle:
 7. Se llama a la función calcular_area_perimetro_rectangulo con los valores ingresados y se almacena el resultado en la variable resultado_rectangulo y se imprime el área y el perímetro del rectángulo, utilizando los valores almacenados en resultado_rectangulo.
 
 
+
 ## Tercer Punto 
  Función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
  
@@ -65,6 +69,8 @@ Dada la figura de la imagen desarrolle:
 4. El resultado de la función se almacena en la variable resultado.
 
 5. Y se imprime en la pantalla la cantidad de carne obtenida de cada tipo de ave, así como la cantidad total de carne.
+
+
 
 ## Cuarto Punto 
 Hallar respuesta a el problema: 
@@ -88,8 +94,10 @@ Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cad
 ![Cuarto punto 4](https://user-images.githubusercontent.com/124607325/226789366-42c8f85f-c636-4cb9-8a83-0d70a14e3893.png)
 
 
+
 ## Quinto Punto
 Hacer un programa que utilice una función para calcular el valor de un préstamo C usando interés compuesto del i por n meses.
+
 1. Se define una función para calcular el valor del prestamo, y se usan tres entradas  C, que es el valor del préstamo, I, que es la tasa de interés anual, y n, que es la cantidad de meses del préstamo. La función calcula el valor total del préstamo con interés compuesto. Y Se devuelve el valor calculado de Valor_Prestamo mediante la instrucción return.
 
 ![Quinto punto 1](https://user-images.githubusercontent.com/124607325/226791844-8de7dc0e-5a2d-4235-a19b-13be81a3ad8f.png)
@@ -102,6 +110,7 @@ Hacer un programa que utilice una función para calcular el valor de un préstam
 
 
 4. Se imprime el resultado de la función calcular_Valor_Prestamo, que es el valor total del préstamo con interés compuesto.
+
 
 
 ## Sexto punto 
@@ -117,6 +126,7 @@ Hallar el número de contagiados de Covid-19 en el país de NuncaLandia se dupli
 ![Sexto punto 2](https://user-images.githubusercontent.com/124607325/226793236-c96bd660-5118-4a40-bb8d-37466d9539e3.png)
 
 3.Se llama a la función calcular_contagios pasando como argumentos los valores de C y D, y se guarda el resultado en la variable total_contagios. Y se imprime en pantalla el mensaje indicando el número total de personas contagiadas después de D días, el cual corresponde al valor de total_contagios.
+
 
 
 ## Septimo Punto 
@@ -244,6 +254,6 @@ Ejemplos : Diagramas de barras, histogramas, series temporales, espectros de pot
 
       $ pip install flask
 
-Django: Es otro popular marco de aplicaciones web de Python. Se utiliza para construir aplicaciones web y APIs más complejas que Flask. Para instalar Django, escriba en la línea de comandos:
+- Django: Es otro popular marco de aplicaciones web de Python. Se utiliza para construir aplicaciones web y APIs más complejas que Flask. Para instalar Django, escriba en la línea de comandos:
 
      $ pip install Django
